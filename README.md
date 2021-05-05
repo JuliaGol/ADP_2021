@@ -13,7 +13,7 @@ Update the table (today you need to fill at least first two columns)
 | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | TBA | all students |
 | Lukasik Anna | [anna-lukasik](https://github.com/Aniczk) | PDV | Kokot Damian, Wolf Jacek |
-| Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | ? | ? |
+| Owczarek Patrycja | [patrycja-owczarek](https://github.com/OwczarekP) | PARS | Julia Gołębiowska |
 | Kokot Damian | [damian-kokot](https://github.com/damkotdo) | ? | ? |
 | Jurzysta Barbara | [barbara-jurzysta](https://github.com/barbarajurzysta) | ? | ? |
 | Rymuza Julia | [julia-rymuza](https://github.com/Julia820) | ? | ? |
